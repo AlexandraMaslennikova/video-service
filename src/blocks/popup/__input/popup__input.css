@@ -1,6 +1,12 @@
 .popup__input {
     width: 232px;
+    height: 31px;
     border: none;
     border-bottom: 1px solid #333;
     margin-bottom: 24px;
+    font-weight: 500;
+}
+
+.popup__input::placeholder {
+    font-weight: 400;
 }

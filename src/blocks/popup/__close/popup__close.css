@@ -11,3 +11,10 @@
     right: -40px;
     padding: 0;
 }
+
+@media screen and (max-width: 680px) {
+    .popup__close {
+        top: -50px;
+        right: -18px;
+    }
+}

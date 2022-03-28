@@ -17,6 +17,13 @@
 @media screen and (max-width: 680px) {
   .channel__text {
     font-size: 14px;
-    line-height: 14px;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .channel__text {
+    max-width: 80%;
+    font-size: 13px;
+    margin-left: 30px;
   }
 }

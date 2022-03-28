@@ -12,3 +12,9 @@
     height: 140px;
   }
 }
+
+@media screen and (max-width: 680px) {
+  .channel__logo {
+    height: 100px;
+  }
+}
