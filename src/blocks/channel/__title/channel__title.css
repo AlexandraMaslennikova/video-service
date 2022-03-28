@@ -1,0 +1,14 @@
+.channel__title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #333333;
+  margin: 21px 0 17px 0;
+}
+
+@media screen and (max-width: 680px) {
+  .channel__title {
+    margin-top: 0;
+    text-align: center;
+  }
+}

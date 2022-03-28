@@ -1,0 +1,10 @@
+.movie-item__text {
+    position: absolute;
+    margin: 16px;
+    color: #F2F2F2;
+    width: 248px;
+    height: 338px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+}

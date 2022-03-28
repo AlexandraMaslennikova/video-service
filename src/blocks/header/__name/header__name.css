@@ -1,0 +1,12 @@
+.header__name {
+    text-align: end;
+    width: 125px;
+    margin: 0 16px 0 0;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #333333;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

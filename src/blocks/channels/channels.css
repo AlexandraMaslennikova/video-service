@@ -1,0 +1,19 @@
+.channels {
+  max-width: 1180px;
+  max-height: 696px;
+  margin: 27px auto 72px;
+}
+
+@media screen and (max-width: 1200px) {
+  .channels {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+}
+
+@media screen and (max-width: 680px) {
+    .channels {
+      width: 600px;
+    }
+  }

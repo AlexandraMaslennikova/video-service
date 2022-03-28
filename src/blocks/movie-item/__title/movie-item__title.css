@@ -1,0 +1,10 @@
+.movie-item__title {
+    margin: 16px 0 0;
+    padding: 0;
+    width: 280px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #333333;
+}

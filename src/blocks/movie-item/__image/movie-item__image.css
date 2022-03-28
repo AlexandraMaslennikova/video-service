@@ -1,0 +1,9 @@
+.movie-item__image {
+    position: absolute;
+    width: 280px;
+    height: 370px;
+    border-radius: 8px;
+}
+
+.movie-item__image:hover {
+}

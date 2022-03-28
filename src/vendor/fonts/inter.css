@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Rubik';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(./rubik-v19-cyrillic-regular.woff) format("woff"),
+         url(./rubik-v19-cyrillic-regular.woff2) format("woff2")
+  }
+  
+@font-face {
+    font-family: 'Rubik';
+    font-style:  normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(./rubik-v19-cyrillic-500.woff) format("woff"),
+         url(./rubik-v19-cyrillic-500.woff2) format("woff2")
+}

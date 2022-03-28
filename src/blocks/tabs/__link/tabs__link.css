@@ -1,0 +1,13 @@
+.tabs__link {
+    display: block;
+    padding-bottom: 9px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    text-decoration: none;
+    color: #333333;
+}
+
+.tabs__link:first-of-type {
+    margin-right: 24px;
+}

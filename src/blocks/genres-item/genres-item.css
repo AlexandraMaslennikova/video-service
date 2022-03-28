@@ -1,0 +1,16 @@
+.genres-item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 280px;
+    height: 208px;
+    background: linear-gradient(127.83deg, #F2C94C 8.44%, #F29A4A 91.36%);
+    box-shadow: inset 0px 0px 16px rgba(0, 0, 0, 0.15);
+    border-radius: 6px;
+    opacity: .8;
+    cursor: pointer;
+}
+
+.genres-item:hover {
+    opacity: 1;
+}

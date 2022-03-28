@@ -1,0 +1,11 @@
+.header__input_type_name {
+    width: 125px;
+    height: 25px;
+    font-weight: 500;
+    border: 1px solid #E5261E;;
+    border-radius: 4px;
+    margin-right: 16px;
+    margin-left: 0;
+    text-align: end;
+    padding-right: 2px;
+}

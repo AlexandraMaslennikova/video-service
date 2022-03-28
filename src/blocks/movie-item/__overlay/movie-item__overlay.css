@@ -1,0 +1,15 @@
+.movie-item__overlay {
+    position: relative;
+    margin: 0;
+    display: block;
+    width: 280px;
+    height: 370px;
+    background: #333333;
+    opacity: 0;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.movie-item__overlay:hover {
+    opacity: .8;
+}

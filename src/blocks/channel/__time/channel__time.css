@@ -1,0 +1,14 @@
+.channel__time {
+    display: inline-block;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-right: 16px;
+}
+
+@media screen and (max-width: 680px) {
+    .channel__time {
+      font-size: 14px;
+      line-height: 14px;
+    }
+  }

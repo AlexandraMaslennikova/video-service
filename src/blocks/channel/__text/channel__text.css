@@ -1,0 +1,22 @@
+.channel__text {
+  margin: 0 0 12px 0;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #333333;
+}
+
+.channel__text:first-of-type {
+  color: #e5261e;
+}
+
+.channel__text:last-child {
+  margin-bottom: 19px;
+}
+
+@media screen and (max-width: 680px) {
+  .channel__text {
+    font-size: 14px;
+    line-height: 14px;
+  }
+}
