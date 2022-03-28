@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/video-service/static/css/main.e828a029.css",
+    "main.js": "/video-service/static/js/main.f8dc8651.js",
+    "static/js/787.3b0b4c96.chunk.js": "/video-service/static/js/787.3b0b4c96.chunk.js",
+    "static/media/hollywood.jpg": "/video-service/static/media/hollywood.2d231d0315b6c88eaa4c.jpg",
+    "static/media/girl.jpg": "/video-service/static/media/girl.14ad951d499ac952b4cc.jpg",
+    "static/media/bathman.jpg": "/video-service/static/media/bathman.0d2f94b9482eeb2cf72a.jpg",
+    "static/media/cat.jpg": "/video-service/static/media/cat.d3925f95a59233b8d4c9.jpg",
+    "static/media/rubik-v19-cyrillic-500.woff": "/video-service/static/media/rubik-v19-cyrillic-500.4dde4d620c2c7c396e75.woff",
+    "static/media/rubik-v19-cyrillic-regular.woff": "/video-service/static/media/rubik-v19-cyrillic-regular.67089cc2edcee54ea7da.woff",
+    "static/media/rubik-v19-cyrillic-500.woff2": "/video-service/static/media/rubik-v19-cyrillic-500.4888de8f5f6aa0e747c2.woff2",
+    "static/media/rubik-v19-cyrillic-regular.woff2": "/video-service/static/media/rubik-v19-cyrillic-regular.395efb4bee3209007f8b.woff2",
+    "static/media/cvt.svg": "/video-service/static/media/cvt.ef56b2154e0c75595aeb02bbf60007dc.svg",
+    "index.html": "/video-service/index.html",
+    "static/media/check.svg": "/video-service/static/media/check.8ceaede819ad0fb7e7ab.svg",
+    "static/media/close-icon.svg": "/video-service/static/media/close-icon.2ceb783afbab75916ddc.svg",
+    "main.e828a029.css.map": "/video-service/static/css/main.e828a029.css.map",
+    "main.f8dc8651.js.map": "/video-service/static/js/main.f8dc8651.js.map",
+    "787.3b0b4c96.chunk.js.map": "/video-service/static/js/787.3b0b4c96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e828a029.css",
+    "static/js/main.f8dc8651.js"
+  ]
+}
