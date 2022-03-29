@@ -11,6 +11,7 @@
     .header {
         max-width: 90%;
         min-height: 116px;
+        height: 100%;
     }
 }
 
