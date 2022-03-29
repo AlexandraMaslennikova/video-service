@@ -1,0 +1,20 @@
+.channel__container {
+  width: 390px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .channel__container {
+      width: 250px;
+      height: 140px;
+    }
+  }
+  
+  @media screen and (max-width: 680px) {
+    .channel__container {
+      height: 100px;
+    }
+  }
+  

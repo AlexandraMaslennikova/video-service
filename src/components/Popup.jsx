@@ -2,7 +2,6 @@ import React from "react";
 import { useState } from "react";
 
 function Popup(props) {
-
   const [login, setLogin] = useState("");
 
   function handleChangeLogin(e) {

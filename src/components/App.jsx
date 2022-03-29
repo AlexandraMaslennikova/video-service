@@ -15,21 +15,23 @@ function App() {
   const [loggedIn, setLoggedIn] = useState(false);
   const [userName, setUserName] = useState("");
 
-  //const history = useHistory();
-
+  //открытие попапа
   function handlePopupClick() {
     setIsPopupOpen(true);
   }
 
+  //закрытие попапа
   function handleClosePopup() {
     setIsPopupOpen(false);
   }
 
+  //получение имени пользователя
   function getUserName() {
     const name = localStorage.getItem("login");
     setUserName(name);
   }
 
+  //получение имени пользователя при загрузке страницы
   useEffect(() => {
     if (localStorage.getItem("login")) {
       getUserName();
@@ -40,6 +42,7 @@ function App() {
     
   }, [])
 
+  //сохраниние имени пользователя
   function handleAddLogin(data) {
     setUserName(data);
     setLoggedIn(true);
@@ -47,6 +50,7 @@ function App() {
     handleClosePopup();
   }
 
+  //выход
   function logout() {
     setLoggedIn(false);
     localStorage.removeItem("login");

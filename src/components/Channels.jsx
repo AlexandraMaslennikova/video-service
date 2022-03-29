@@ -9,14 +9,15 @@ import Discovery from "../images/Discovery.png";
 function Channels() {
   return (
     <section className="channels">
-      <Scrollbars style={{ width: 1180, height: 696 }}   
-        >
+      <Scrollbars style={{ width: 1180, height: 696 }}>
         <div className="channel">
-          <img
-            className="channel__logo"
-            src={first}
-            alt="Логотип Первого канала"
-          />
+          <div className="channel__container">
+            <img
+              className="channel__logo"
+              src={first}
+              alt="Логотип Первого канала"
+            />
+          </div>
           <div>
             <h2 className="channel__title">Первый канал</h2>
             <p className="channel__text">
@@ -31,11 +32,13 @@ function Channels() {
           </div>
         </div>
         <div className="channel">
-          <img
-            className="channel__logo"
-            src={two}
-            alt="Логотип телеканала Дважды два"
-          />
+          <div className="channel__container">
+            <img
+              className="channel__logo"
+              src={two}
+              alt="Логотип телеканала Дважды два"
+            />
+          </div>
           <div>
             <h2 className="channel__title">2&times;2</h2>
             <p className="channel__text">
@@ -53,11 +56,13 @@ function Channels() {
           </div>
         </div>
         <div className="channel">
-          <img
-            className="channel__logo"
-            src={RBK}
-            alt="Логотип телеканала РБК"
-          />
+          <div className="channel__container">
+            <img
+              className="channel__logo"
+              src={RBK}
+              alt="Логотип телеканала РБК"
+            />
+          </div>
           <div>
             <h2 className="channel__title">РБК</h2>
             <p className="channel__text">
@@ -73,11 +78,13 @@ function Channels() {
           </div>
         </div>
         <div className="channel">
-          <img
-            className="channel__logo"
-            src={Amedia}
-            alt="Логотип телеканала AMEDIA"
-          />
+          <div className="channel__container">
+            <img
+              className="channel__logo"
+              src={Amedia}
+              alt="Логотип телеканала AMEDIA"
+            />
+          </div>
           <div>
             <h2 className="channel__title">AMEDIA PREMIUM</h2>
             <p className="channel__text">
@@ -93,11 +100,13 @@ function Channels() {
           </div>
         </div>
         <div className="channel">
-          <img
-            className="channel__logo"
-            src={Discovery}
-            alt="Логотип телеканала Discovery"
-          />
+          <div className="channel__container">
+            <img
+              className="channel__logo"
+              src={Discovery}
+              alt="Логотип телеканала Discovery"
+            />
+          </div>
           <div>
             <h2 className="channel__title">Discovery</h2>
             <p className="channel__text">

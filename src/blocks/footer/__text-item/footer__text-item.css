@@ -5,9 +5,9 @@
     line-height: 19px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 495px) {
     .footer__text-item {
-        margin: 10px 0 5px;
+        margin: 15px 0 5px;
         font-size: 12px;
     }
 }

@@ -1,11 +1,11 @@
 .footer__container {
-    display: flex;
-    margin: 0 auto;
-    width: 1180px;
+  display: flex;
+  margin: 0 auto;
+  width: 1180px;
 }
 
-@media screen and (max-width:1200px) {
-    .footer__container {
-        width: 93%;
-    }
+@media screen and (max-width: 1200px) {
+  .footer__container {
+    width: 93%;
   }
+}
