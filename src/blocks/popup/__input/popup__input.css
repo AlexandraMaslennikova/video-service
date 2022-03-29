@@ -3,10 +3,14 @@
     height: 31px;
     border: none;
     border-bottom: 1px solid #333;
-    margin-bottom: 24px;
+    margin-bottom: 23px;
     font-weight: 500;
 }
 
 .popup__input::placeholder {
     font-weight: 400;
+}
+
+.popup__input:first-of-type {
+    margin-bottom: 15px;
 }
