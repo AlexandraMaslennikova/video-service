@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/video-service/static/css/main.c8737afc.css",
+    "main.css": "/video-service/static/css/main.4a53b72e.css",
     "main.js": "/video-service/static/js/main.0f8c19e5.js",
     "static/js/787.3b0b4c96.chunk.js": "/video-service/static/js/787.3b0b4c96.chunk.js",
     "static/media/hollywood.jpg": "/video-service/static/media/hollywood.2d231d0315b6c88eaa4c.jpg",
@@ -15,12 +15,12 @@
     "index.html": "/video-service/index.html",
     "static/media/check.svg": "/video-service/static/media/check.8ceaede819ad0fb7e7ab.svg",
     "static/media/close-icon.svg": "/video-service/static/media/close-icon.2ceb783afbab75916ddc.svg",
-    "main.c8737afc.css.map": "/video-service/static/css/main.c8737afc.css.map",
+    "main.4a53b72e.css.map": "/video-service/static/css/main.4a53b72e.css.map",
     "main.0f8c19e5.js.map": "/video-service/static/js/main.0f8c19e5.js.map",
     "787.3b0b4c96.chunk.js.map": "/video-service/static/js/787.3b0b4c96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8737afc.css",
+    "static/css/main.4a53b72e.css",
     "static/js/main.0f8c19e5.js"
   ]
 }
